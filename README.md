@@ -3,7 +3,7 @@ About dockle-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/dockle-feedstock/blob/main/LICENSE.txt)
 
-Home: https://containers.goodwith.tech
+Home: https://containers.goodwith.tech/
 
 Package license: Apache-2.0
 
